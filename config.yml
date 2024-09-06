@@ -1,0 +1,6 @@
+zrcs: ["zuliprc1", "zuliprc2"]
+zrcsinfo: ["orgname1", "orgname2"]
+
+discord:
+  token: "insert_discord_token_here"
+  channels: [discordchannelid1, discordchannelid2]
