@@ -10,5 +10,5 @@ A basic discord bot that fetches the most recent zulip message from the given or
   - **channels**: channels where you want to messages to be sent to.
 - run main.py
 
-# INFO
-literally made in 20 minutes, so if something doesn't work ¯\_(ツ)_/¯
+## INFO
+literally made in 20 minutes, so if something doesn't work `¯\_(ツ)_/¯`
